@@ -13,8 +13,7 @@ theme_settings:
      <h1>Witty & Hilarious Rails Developer</h1>
      <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image:
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+  footer_text:
 
   # Icons
   rss: false
