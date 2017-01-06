@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BlocFlix
+published: false
 thumbnail-path: "img/blocflix.png"
 short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
 
