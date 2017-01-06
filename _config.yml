@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>The Startup of My Career in Tech</h1>
-     <p>Hi there, I'm Kasey and I'm a current coding bootcamp student learning full stack web development. </p>
+     <p>Current bootcamp student learning full stack web development. </p>
   header_text_feature_image:
   footer_text:
 
