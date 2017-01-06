@@ -5,7 +5,7 @@ url: "http://kaseycolleen.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Kasey Colleen # Your name will go here
+  title: Kasey Colleens # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
