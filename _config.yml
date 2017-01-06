@@ -1,29 +1,29 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://kaseycolleen.com" # the base hostname & protocol for your site
+url: "http://kaseycolleen.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Kasey Colleens # Your name will go here
+  title: Kasey Codes # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
      <h1>The Startup of My Career in Tech</h1>
-     <p>Hi there, I'm Kasey and I'm learning to code. </p>
+     <p>Hi there, I'm Kasey and I'm a current coding bootcamp student learning full stack web development. </p>
   header_text_feature_image:
   footer_text:
 
   # Icons
   rss: false
-  email_address: itskaseycolleen@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address: kaseycodes@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: kaseycm # github profile name, e.g. "madebymunsters"
+  github: kaseycolleen # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram: 
   linkedin: https://www.linkedin.com/in/kaseycolleen # Full URL
@@ -33,7 +33,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: 
+  twitter: https://twitter.com/kaseycodes
   wordpress:
   youtube:
 
