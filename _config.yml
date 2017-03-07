@@ -5,7 +5,7 @@ url: "http://kaseycolleen.github.io" # the base hostname & protocol for your sit
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Kasey Codes # Your name will go here
+  title: Kasey  # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -17,13 +17,13 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: kaseycodes@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address:  # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: kaseycolleen # github profile name, e.g. "madebymunsters"
+  github:  # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram: 
   linkedin:  # Full URL
@@ -33,7 +33,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: https://twitter.com/kaseycodes
+  twitter: https://twitter.com
   wordpress:
   youtube:
 
